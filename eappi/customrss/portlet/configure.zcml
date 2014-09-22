@@ -5,5 +5,13 @@
 
     <include package="plone.app.portlets" file="permissions.zcml"/>
     <!-- -*- extra stuff goes here -*- -->
+    <plone:portlet
+        name="eappi.customrss.portlet.EappiRSS"
+        interface=".eappirss.IEappiRSS"
+        assignment=".eappirss.Assignment"
+        renderer=".eappirss.Renderer"
+        addview=".eappirss.AddForm"
+        editview=".eappirss.EditForm"
+        />
 
 </configure>

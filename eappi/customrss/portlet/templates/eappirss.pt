@@ -1,0 +1,18 @@
+<dl class="portlet portletEappiRSS"
+    i18n:domain="eappi.customrss">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        Eappi RSS
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem">
+    </dd>
+
+    <dd class="portletFooter">
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+
+</dl>
